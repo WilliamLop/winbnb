@@ -15,7 +15,7 @@ Windbnb is a small version of Airbnb that allows users to view properties and fi
 
 ## Enlaces
 
-- Solution URL: [Github solution code](https://github.com/WilliamLop/winbnb.git)
+- Solution URL: [Github solution code](https://wiinbnb.netlify.app/)
 - Live Site URL: [Windbnb](https://contriesword.netlify.app/)
 
 ## Autor
