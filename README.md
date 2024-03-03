@@ -12,3 +12,15 @@ Windbnb is a small version of Airbnb that allows users to view properties and fi
 - **Filter Properties:** Users can filter properties by location and number of guests.
 - **Filtered Item Count:** Users can see the number of filtered items.
 - **Pagination:** Users can navigate through pages following the provided designs.
+
+- ### Enlaces
+
+- Solution URL: [Github solution code](https://github.com/WilliamLop/winbnb.git)
+- Live Site URL: [Windbnb](https://contriesword.netlify.app/)
+
+## Autor
+
+- Website - [William Calderon](https://porfoliowilliamcl.netlify.app/)
+- Frontend Mentor - [@WilliamLop](https://www.frontendmentor.io/profile/WilliamLop)
+- Instagram - [@fenbapps](https://www.instagram.com/fenbapps/)
+
