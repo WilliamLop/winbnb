@@ -2,7 +2,7 @@
 
 Windbnb is a small version of Airbnb that allows users to view properties and filter them based on location and number of guests.
 
-[Windbnb Demo](/winbnb2.png)
+![Mockup de Windbnb](winbnb2.png);
 
 ## User Stories
 
